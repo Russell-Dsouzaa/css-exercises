@@ -17,7 +17,11 @@ body {
   font-size: 22px;
 }
 
-.confirm {
+body p.para.bold {
+  font-size :40px;
+}
+
+.button.confirm {
   background: green;
   color: white;
   font-weight: bold;
@@ -33,6 +37,11 @@ body {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
+}
+
+.text.child {
+  font-size : 12px;
+  font-weight :1000;
 }
 
 div.text {

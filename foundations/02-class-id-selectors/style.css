@@ -1,0 +1,19 @@
+.class-p {
+    background-color : rgb(255, 171, 171);
+    font-family : Verdana , "DejaVu sans" , sans-serif;
+}
+
+#id1-div {
+    color : blue; 
+    font-size : 36px;
+}
+
+#id2-div {
+    background-color : rgb(66, 252, 66);
+    font-size : 24px;
+    font-weight : bold;
+}
+
+.temp-class {
+    font-size : 24px;
+}
